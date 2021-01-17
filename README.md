@@ -11,7 +11,7 @@ The final setup was 4 servers running vulnerable DVWA containers along with a ju
 
 The files in this repository were used to configure the network depicted below.
 
-![NETWORK TOPOLOGY Diagram](https://drive.google.com/file/d/1p9x2XOtCDJiO1lF3T7LtjFFQnOY7MRRT/view?usp=sharing)
+![NETWORK TOPOLOGY Diagram](https://github.com/pgpguru/scripts/blob/main/Diagrams/cloudsecurity.PNG)
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the _install_elk.yml Playbook____ file may be used to install only certain pieces of it, such as Filebeat.
 
