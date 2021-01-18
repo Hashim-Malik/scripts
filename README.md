@@ -185,8 +185,8 @@ A summary of the access policies in place can be found below.
 |------|--------------------------------|---------------------|
 Jump Box|YES|Whitelisted IP (My Personal IP)
 DVWA|NO
+WebVM1|NO
 WebVM2|NO
-WebVM3|NO
 Elk-Server|YES|10.2.0.4:6501
 
 ### **Elk Configuration**
@@ -218,7 +218,7 @@ This ELK server is configured to monitor the following machines:
 We have installed the following Beats on these machines:
 ```
 10.0.0.5 (DVWA)
-10.0.0.6 (WebVM2)
+10.0.0.6 (WebVM1)
 10.0.0.7 (WevVM2)
 10.2.0.4 (ELK)
 ```
